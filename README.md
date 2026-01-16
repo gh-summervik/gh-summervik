@@ -2,7 +2,7 @@
 
 **Experienced backend software engineer** — primarily .NET (C#) and Node.js.
 
-In the process of learning **GoLang** - it is quickly becoming my favorite language.
+In the process of learning **Go** - it is quickly becoming my favorite language.
 
 I tend to avoid front-end work whenever possible... unless it's **HTMX** — that's the good stuff.
 
